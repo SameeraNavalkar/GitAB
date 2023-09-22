@@ -7,6 +7,8 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World from Master!");
+            Console.WriteLine("Hello World from userA!");
+            Console.WriteLine("Hello World from user!");
         }
     }
 }
